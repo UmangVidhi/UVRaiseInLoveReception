@@ -14976,3 +14976,8 @@ static-hero-s4
     color: #fff;
   }
 }/*# sourceMappingURL=style.css.map */
+
+#map {
+  height: 450px;
+  margin-bottom: 30px;
+}
