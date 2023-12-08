@@ -6288,7 +6288,7 @@ static-hero-s4
   }
   .wpo-wedding-date #clock > div:last-child {
     position: relative;
-    right: -70px;
+    right: 0px;
   }
 }
 .wpo-wedding-date #clock > div > div {
