@@ -18,6 +18,10 @@ i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
     -moz-osx-font-smoothing: grayscale;
 }
 
+i[class*="flaticon-size-xl"]:before {
+    font-size: 4rem;
+}
+
 .flaticon-email:before {
     content: "\f101";
 }
